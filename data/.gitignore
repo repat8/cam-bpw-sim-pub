@@ -1,3 +1,4 @@
 *.m.hdf5
 *.r.hdf5
 *.ipynb
+!/bpsim_home/meas/1.0/500R23D1P5U/fcr_waveform_summary_voltage.ipynb
