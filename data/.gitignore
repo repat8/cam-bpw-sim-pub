@@ -1,1 +1,3 @@
 *.m.hdf5
+*.r.hdf5
+*.ipynb

@@ -1,4 +1,4 @@
-# cam-bpw-sim-pub
+# Validation Data for the Cam-based Blood Pressure Simulator
 
 Published data for our blood pressure waveform simulation and evaluation toolbox,
 located at our [software](https://github.com/repat8/cam-bpw-sim) and [hardware parts](https://github.com/repat8/cam-bpw-sim-hardware) repository.
