@@ -1,0 +1,11 @@
+{
+  "name": "AAC249_0",
+  "amplitude": 1.0,
+  "r": 30.0,
+  "r_rim": 29.0,
+  "r_follower": 0.0,
+  "d_shaft": 6.05,
+  "rotation": "ccw",
+  "invert": false,
+  "resample": false
+}

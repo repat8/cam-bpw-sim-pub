@@ -1,0 +1,2 @@
+- Use the contents of `./.config/cam-bpw-sim/config.toml` to fill the auto-generated file created by the command line command `cam-bpw-sim init-config`.
+- Edit the variable `simulator_home` to point to the real location of `./bpsim_home` folder on your computer.

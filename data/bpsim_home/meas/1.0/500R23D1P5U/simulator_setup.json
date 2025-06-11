@@ -1,0 +1,18 @@
+{
+    "label": "500R23D1P5U",
+    "lever_class": 2,
+    "lever_r1": 500.0,
+    "lever_r2": 23.0,
+    "fulcrum_x": 500.0,
+    "cam_follower_d": 1.0,
+    "cam_follower_h": 0.0,
+    "lever_follower_d": 8.0,
+    "cams": {
+        "AAC3_Phr1": "AAC3_3/d605r3000a100rf0/SC.1.0/inst/1",
+        "AAC4_Phr1": "AAC4_0/d605r3000a100rf0/SC.1.0/inst/1",
+        "AAC27_Phr1": "AAC27_22/d605r3000a100rf0/SC.1.0/inst/1",
+        "AAC27_rf50_Phr1": "AAC27_22/d605r3000a100rf50/SC.1.1/inst/1",
+        "AAC249_Phr2": "AAC249_0/d605r3000a100rf0/SC.1.0/inst/2",
+        "AAC276_Phr2": "AAC276_4/d605r3000a100rf0/SC.1.0/inst/2"
+    }
+}

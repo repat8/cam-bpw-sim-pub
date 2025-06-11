@@ -1,0 +1,12 @@
+simulator_home = "/the/real/full/path/cam-bpw-sim-pub/data/bpsim_home"
+
+[cam_instance]
+technology = ["3D_print"]
+machine = [
+    "Sonic Mini",
+    "Sonic Mini 8K S",
+    "CraftBot/1",
+    "CraftBot/2",
+    "CraftBot/3",
+]
+material = ["PLA", "PLA+", "Phrozen"]
