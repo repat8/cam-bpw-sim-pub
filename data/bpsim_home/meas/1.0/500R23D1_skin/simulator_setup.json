@@ -1,0 +1,13 @@
+{
+    "label": "500R23D1_skin",
+    "lever_class": 2,
+    "lever_r1": 500.0,
+    "lever_r2": 23.0,
+    "fulcrum_x": 500.0,
+    "cam_follower_d": 1.0,
+    "cam_follower_h": 0.0,
+    "lever_follower_d": 8.0,
+    "cams": {
+        "AAC27rf50": "AAC27_22/d605r3000a100rf50/SC.1.1/inst/1"
+    }
+}
